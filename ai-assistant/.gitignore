@@ -7,5 +7,6 @@
 
 frontend/.env*.local
 frontend/.next/
+frontend/next-env.d.ts
 frontend/node_modules/
 frontend/out/
